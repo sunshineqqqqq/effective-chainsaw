@@ -1,0 +1,53 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\multipledispatch-0.6.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/multipledispatch/__init__.py",
+    "Lib/site-packages/multipledispatch/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/conflict.cpython-312.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/dispatcher.cpython-312.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/variadic.cpython-312.pyc",
+    "Lib/site-packages/multipledispatch/conflict.py",
+    "Lib/site-packages/multipledispatch/core.py",
+    "Lib/site-packages/multipledispatch/dispatcher.py",
+    "Lib/site-packages/multipledispatch/utils.py",
+    "Lib/site-packages/multipledispatch/variadic.py",
+    ".nonadmin"
+  ],
+  "fn": "multipledispatch-0.6.0-py312haa95532_0.conda",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\multipledispatch-0.6.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "e25c553aa3159c704461c22cda408358",
+  "name": "multipledispatch",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\multipledispatch-0.6.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::multipledispatch==0.6.0=py312haa95532_0[md5=e25c553aa3159c704461c22cda408358]",
+  "sha256": "15af73564e97a5ed71fb42cb404b93f1909b8a06bb40bbfa44493e089923d332",
+  "size": 28606,
+  "subdir": "win-64",
+  "timestamp": 1699473970000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/multipledispatch-0.6.0-py312haa95532_0.conda",
+  "version": "0.6.0"
+}

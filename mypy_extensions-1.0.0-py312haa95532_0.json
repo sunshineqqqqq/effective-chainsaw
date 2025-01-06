@@ -1,0 +1,43 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\mypy_extensions-1.0.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/mypy_extensions.cpython-312.pyc",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/mypy_extensions-1.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/mypy_extensions.py",
+    ".nonadmin"
+  ],
+  "fn": "mypy_extensions-1.0.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\mypy_extensions-1.0.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "0102dce7b35020a7f531dceb85532a15",
+  "name": "mypy_extensions",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\mypy_extensions-1.0.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::mypy_extensions==1.0.0=py312haa95532_0[md5=0102dce7b35020a7f531dceb85532a15]",
+  "sha256": "79fc8833cce0066e402e983adc4620e9ac306b0685c9da59614e1db357544656",
+  "size": 12855,
+  "subdir": "win-64",
+  "timestamp": 1699482655000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mypy_extensions-1.0.0-py312haa95532_0.conda",
+  "version": "1.0.0"
+}
