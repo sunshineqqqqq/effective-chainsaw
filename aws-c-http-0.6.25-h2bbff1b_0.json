@@ -1,0 +1,55 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-cal >=0.5.20,<0.5.21.0a0",
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-compression >=0.2.16,<0.2.17.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-http-0.6.25-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-http.dll",
+    "Library/bin/elasticurl.exe",
+    "Library/include/aws/http/connection.h",
+    "Library/include/aws/http/connection_manager.h",
+    "Library/include/aws/http/exports.h",
+    "Library/include/aws/http/http.h",
+    "Library/include/aws/http/http2_stream_manager.h",
+    "Library/include/aws/http/proxy.h",
+    "Library/include/aws/http/request_response.h",
+    "Library/include/aws/http/server.h",
+    "Library/include/aws/http/statistics.h",
+    "Library/include/aws/http/status_code.h",
+    "Library/include/aws/http/websocket.h",
+    "Library/lib/aws-c-http.lib",
+    "Library/lib/aws-c-http/cmake/aws-c-http-config.cmake",
+    "Library/lib/aws-c-http/cmake/shared/aws-c-http-targets-release.cmake",
+    "Library/lib/aws-c-http/cmake/shared/aws-c-http-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-http-0.6.25-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-http-0.6.25-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "5116651c4a56a080033165882d99fd49",
+  "name": "aws-c-http",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-http-0.6.25-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-http==0.6.25=h2bbff1b_0[md5=5116651c4a56a080033165882d99fd49]",
+  "sha256": "b84484ba4bbf9ee84162f7a25bf933d970c4b2658f340d5288a734f9343620a2",
+  "size": 185551,
+  "subdir": "win-64",
+  "timestamp": 1706744253000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-http-0.6.25-h2bbff1b_0.conda",
+  "version": "0.6.25"
+}
